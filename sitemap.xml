@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://dvshkn.github.com/</loc>
+        <loc>http://www.dvshkn.com/blog/2013/02/08/first-post/</loc>
+        <lastmod>2013-02-09T22:53:54-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dvshkn.com/</loc>
+        <lastmod>2013-02-09T22:53:54-08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.dvshkn.com/robots.txt</loc>
         <lastmod>2013-01-14T21:41:39-08:00</lastmod>
     </url>
     <url>
-        <loc>http://dvshkn.github.com/robots.txt</loc>
-        <lastmod>2013-01-14T21:41:39-08:00</lastmod>
-    </url>
-    <url>
-        <loc>http://dvshkn.github.com/blog/archives/</loc>
-        <lastmod>2013-01-14T21:41:39-08:00</lastmod>
+        <loc>http://www.dvshkn.com/blog/archives/</loc>
+        <lastmod>2013-02-09T22:53:54-08:00</lastmod>
     </url>
 </urlset>

@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dvshkn.github.com/atom.xml" rel="self"/>
-  <link href="http://dvshkn.github.com/"/>
-  <updated>2013-01-14T21:42:05-08:00</updated>
-  <id>http://dvshkn.github.com/</id>
+  <title><![CDATA[dvshkn]]></title>
+  <link href="http://www.dvshkn.com/atom.xml" rel="self"/>
+  <link href="http://www.dvshkn.com/"/>
+  <updated>2013-02-09T22:58:01-08:00</updated>
+  <id>http://www.dvshkn.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[David Knight]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://www.dvshkn.com/blog/2013/02/08/first-post/"/>
+    <updated>2013-02-08T23:16:00-08:00</updated>
+    <id>http://www.dvshkn.com/blog/2013/02/08/first-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
