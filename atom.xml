@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Of Bits and Starships]]></title>
+  <title><![CDATA[David Knight]]></title>
   <link href="http://www.dvshkn.com/atom.xml" rel="self"/>
   <link href="http://www.dvshkn.com/"/>
-  <updated>2013-03-03T13:04:01-08:00</updated>
+  <updated>2013-11-08T22:36:31-08:00</updated>
   <id>http://www.dvshkn.com/</id>
   <author>
     <name><![CDATA[David Knight]]></name>
@@ -19,20 +19,20 @@
     <updated>2013-03-03T12:39:00-08:00</updated>
     <id>http://www.dvshkn.com/blog/2013/03/03/windows-8-impressions</id>
     <content type="html"><![CDATA[<p>Considering that I now spend the majority of my computing time on a laptop, I
-figured that it would be fun to put Redmond&#8217;s latest and greatest OS on my
-primarily gaming-oriented desktop. After using this machine on and off for a few months, some opinions have finally gelled as far as what works and what doesn&#8217;t.</p>
+figured that it would be fun to put Redmond&rsquo;s latest and greatest OS on my
+primarily gaming-oriented desktop. After using this machine on and off for a few months, some opinions have finally gelled as far as what works and what doesn&rsquo;t.</p>
 
 <p>Going into this process, I was pretty enthusiastic about Windows 8 and was
 actively trying to keep an open mind despite a lot of online vitriol flowing
-about Metro UI (or whatever name Microsoft is calling it now). I&#8217;m actually a
+about Metro UI (or whatever name Microsoft is calling it now). I&rsquo;m actually a
 pretty big fan of the Metro aesthetic due to the heavy use of clean lines and
 its emphasis on simple typography. Those who know me personally might say that I
 have an obsession with skinny fonts.</p>
 
 <h3>No Start Menu, No Problem</h3>
 
-<p>The most common complaint about Windows 8 that I&#8217;ve seen is about the removal of
-the Start menu, but I don&#8217;t miss it at all. Tapping the Windows key on the
+<p>The most common complaint about Windows 8 that I&rsquo;ve seen is about the removal of
+the Start menu, but I don&rsquo;t miss it at all. Tapping the Windows key on the
 keyboard brings up the Start screen in Metro, and subsequently typing the prefix
 of an application name will quickly bring up a list of matches. I find this
 process a lot quicker than navigating a hierarchy of menus as my hands never
@@ -48,31 +48,31 @@ launcher menu paradigm will require more time to adjust.</p>
 <p>The integration between Metro and the desktop exists in some contexts, but it is
 not fully developed. For example, Metro apps can be launched from events in the
 desktop and vice-versa. But my biggest gripe is that there is little integration
-between the desktop&#8217;s control panel and Metro&#8217;s settings page. Both apps are
+between the desktop&rsquo;s control panel and Metro&rsquo;s settings page. Both apps are
 relevant, and preferences are partitioned into two disjoint sets based on
 whether they apply more to the Metro world than the desktop realm. This division
 requires the user to go through an extra step of reasoning about where specific
 preferences are listed. I imagine that this division comes from the fact that
-Microsoft didn&#8217;t want to add legacy mode cruft to allow Metro to list desktop
-control panel pages. On a technical level I can respect Microsoft&#8217;s desire to
+Microsoft didn&rsquo;t want to add legacy mode cruft to allow Metro to list desktop
+control panel pages. On a technical level I can respect Microsoft&rsquo;s desire to
 make a clean break from the old Win32 era APIs, but the process definitely
 introduces some growing pains.</p>
 
-<p>On a larger scale, I&#8217;m not sure why Microsoft did not opt to have legacy apps
+<p>On a larger scale, I&rsquo;m not sure why Microsoft did not opt to have legacy apps
 simply launch on top of the Metro UI like a second widget layer on top of the
 live tiles. There would have been some issues like how to integrate legacy and
-Metro apps together in the task switcher, but that problem doesn&#8217;t seem
+Metro apps together in the task switcher, but that problem doesn&rsquo;t seem
 insurmountable. Maybe this level of integration would have deprecated more
 desktop functionality and APIs than Microsoft was comfortable with at this time?</p>
 
 <h3>Full Screen is Only Useful Half of the Time</h3>
 
 <p>This last aspect in one form or another has been routinely criticized by power
-users, and it&#8217;s a design direction that has influenced not just Windows 8 but
-also OS X, Gnome 3, and Unity. I didn&#8217;t give it much thought until I tried
+users, and it&rsquo;s a design direction that has influenced not just Windows 8 but
+also OS X, Gnome 3, and Unity. I didn&rsquo;t give it much thought until I tried
 opening some PDFs and JPEGs of scanned documents, and the full screen Metro
 viewer apps opened up. Since I was using these documents as a reference for
-another task, it didn&#8217;t make sense to view them in full screen mode, and it
+another task, it didn&rsquo;t make sense to view them in full screen mode, and it
 would have been more convenient in the traditional windowed paradigm of having
 the viewer open side-by-side with my other open apps.</p>
 
@@ -88,23 +88,23 @@ to move Windows x86 further down the walled-garden path.</p>
     <link href="http://www.dvshkn.com/blog/2013/02/13/third-post/"/>
     <updated>2013-02-13T20:05:00-08:00</updated>
     <id>http://www.dvshkn.com/blog/2013/02/13/third-post</id>
-    <content type="html"><![CDATA[<p>My name is David Knight, and I&#8217;m a software engineer at the Jet Propulsion
+    <content type="html"><![CDATA[<p>My name is David Knight, and I&rsquo;m a software engineer at the Jet Propulsion
 Laboratory in Pasadena, California.</p>
 
-<p>This is actually the third version of the first post that I&#8217;ve written, where
-each revision is a little less long-winded than the previous one. I&#8217;ll try to
+<p>This is actually the third version of the first post that I&rsquo;ve written, where
+each revision is a little less long-winded than the previous one. I&rsquo;ll try to
 keep this one short and sweet. This blog is a place for me to write down my
 thoughts on programming and technology in addition to writing about some more
 general interests like food, space exploration, environmentalism, philosophy,
 college football, etc.</p>
 
 <p>My main motivator for writing here is to help reverse the atrophy that my
-writing skills have underwent since I finished college. Additionally, it&#8217;s
-refreshing to work on a self-directed side project, and it&#8217;s a bonus that it
+writing skills have underwent since I finished college. Additionally, it&rsquo;s
+refreshing to work on a self-directed side project, and it&rsquo;s a bonus that it
 can serve as a creative output and a catalog of thoughts and hobbies.</p>
 
 <p>In the near future, I plan to post a short bio page and a running list of past
-miscellaneous projects that I&#8217;ve found enjoyable.</p>
+miscellaneous projects that I&rsquo;ve found enjoyable.</p>
 ]]></content>
   </entry>
   
