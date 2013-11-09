@@ -1,2 +1,103 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+// page background
+html {
+  background: $page-bg;
+  a {
+    color: $primary-accent;
+  }
+  a:hover {
+    color: $white !important;
+    background-color: $primary-accent !important;
+    text-decoration: none !important;
+  }
+}
+
+// hero image (round icon)
+#hero-container {
+  text-align: center;
+}
+#hero-image {
+  @media only screen and (min-width: 480px) {
+    width: 120px;
+    height: 120px;
+  }
+  @media only screen and (min-width: 768px) {
+    width: 150px;
+    height: 150px;
+  }
+  @media only screen and (min-width: 992px) {
+    width: 180px;
+    height: 180px;
+  }
+  width: 90px;
+  height: 90px;
+  border-radius: 100%;
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+}
+
+// center up the headers
+hgroup {
+  text-align: center;
+}
+
+// header font styles
+body > header {
+  h1 {
+    font-weight: 700;
+  }
+  h2 {
+    font-weight: 300;
+  }
+}
+
+// keep the sidebar from interfering
+aside.sidebar {
+  background: none !important;
+  border: none !important;
+}
+
+// hack to make individual page margins match blog index margins
+#content > div, #content > article {
+  padding-top: 1em;
+}
+
+// make the blog archive div full-width
+body div.pagination {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+// make the footer square, have it go all the way to the bottom
+body > footer {
+  border-bottom-left-radius: 0em;
+  border-bottom-right-radius: 0em;
+  margin-bottom: 0em;
+}
+
+// make mobile navigation drop-down full-width
+body > nav {
+  fieldset.mobile-nav{
+    float: left;
+    width: 100%;
+  }
+}
+
+// styling and spacing for the navigation links
+body > nav {
+  li a, li + li a {
+    margin-left: 0em;
+    margin-right: 0.6em;
+    padding: 0em;
+    font-family: $navigation-font-family !important;
+    font-size: 1.5em;
+    font-weight: 700;
+  }
+}
+
+// use sans serif for the pagination text
+body div.pagination {
+  font-family: $sans;
+}
